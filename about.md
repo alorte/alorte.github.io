@@ -9,7 +9,7 @@ redirect_from:
   - /about
 ---
 
-I am an Assistant Professor at the  [O'Neill School of Public and Environmental Affairs](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/ortega-alberto.html) at Indiana University with an empirical research focus in the areas of social policy, health economics, and crime victimization. Below are some examples of my works in progress. 
+I am an Assistant Professor in the  [O'Neill School of Public and Environmental Affairs](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/ortega-alberto.html) at Indiana University with an empirical research focus in social policy, health economics, and crime victimization. Below are some examples of my work in progress.
 
 In Progress
 ======
@@ -21,5 +21,5 @@ In Progress
  
 [Behavioral Health Treatment and Police Officer Safety](https://www.nber.org/papers/w31391?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)   (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #31391*)
 
-[Racial Protests and Credit Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304551) (with Raffi E. Garcia)
+Racial Protests and Credit Access (with Raffi E. Garcia)
 
