@@ -4,8 +4,6 @@ permalink: /
 title: "Welcome!"
 excerpt: " "
 author_profile: true
-redirect_from: 
-  - /about 
 ---
 
-me 
+This is the homepage of my website.
