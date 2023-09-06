@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Home
-permalink: /
+permalink: [Home](/)
 ---
 
 This is the homepage of my website.
