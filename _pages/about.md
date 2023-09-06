@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /
+permalink: /about
 title: "Welcome!"
 excerpt: " "
 author_profile: true
 redirect_from: 
-  - '/Users/albertoortega/Dropbox/GitHub/alorte.github.io/_pages/about.html'
+  - /about 
 ---
 
 I am an Assistant Professor at the  [O'Neill School of Public and Environmental Affairs](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/ortega-alberto.html) at Indiana University with an empirical research focus in the areas of social policy, health economics, and crime victimization. Below are some examples of my works in progress. 
