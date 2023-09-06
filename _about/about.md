@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /about
 title: "Welcome!"
 excerpt: " "
 author_profile: true
