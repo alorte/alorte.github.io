@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-theme                    : minima
+theme                    : "minima"
 title                    : "Alberto Ortega"
 title_separator          : "-"
 name                     : &name "Alberto Ortega"
