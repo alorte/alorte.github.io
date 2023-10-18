@@ -19,5 +19,5 @@ In Progress
  
 [Behavioral Health Treatment and Police Officer Safety](https://www.nber.org/papers/w31391?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)   (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #31391*)
 
-Racial Protests and Credit Access (with Raffi E. Garcia)
+[Racial Protests and Credit Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304551) (with Raffi E. Garcia)
 
