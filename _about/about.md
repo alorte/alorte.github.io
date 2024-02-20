@@ -18,9 +18,8 @@ In Progress
 
  [The Impact of Affirmative Action Litigation on Police Killings of Civilians](http://www.jameinpcunningham.com/uploads/1/1/2/0/112070441/affirmative_action_police_killings.pdf)  (with Robynn Cox and Jamein Cunningham)-- (*Revisions Requested*)  **American Economic Journal: Applied Economics**
  
- Worker-Driven Social Responsibility and Infant Health: Evidence from the Fair Foods Program (with Joaquin Alfredo-Angel Rubalcaba) -- (*Revisions Requested*) **American Journal of Health Economics**
  
-[Behavioral Health Treatment and Police Officer Safety](https://www.nber.org/papers/w31391?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)   (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #31391*)
+[Behavioral Health Treatment and Police Officer Safety](https://www.nber.org/papers/w31391?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)   (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #31391*)  (*Revisions Requested*) **Journal of Human Resourcess**
 
 [Racial Protests and Credit Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304551) (with Raffi E. Garcia)
 
