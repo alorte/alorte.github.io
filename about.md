@@ -14,7 +14,7 @@ I am an Assistant Professor at the  [O'Neill School of Public and Environmental 
 In Progress
 ======
 [DOJ Intervention and the Checkpoint Shift: Profiling Hispanic Motorists under the 287(g) Program]
-()(with Joaquin Alfredo-Angel Rubalcaba and Prentiss A. Dantzler)--(*Forthcoming*) **AEA Papers and Proceedings**
+(with Joaquin Alfredo-Angel Rubalcaba and Prentiss A. Dantzler)--(*Forthcoming*) **AEA Papers and Proceedings**
 
 [Black Lives: The High Cost of Segregation](https://equitablegrowth.org/working-papers/black-lives-the-high-cost-of-segregation/) (with Robynn Cox, Jamein Cunningham, and Kenneth Whaley) -- (*Revisions Requested*)  **American Economic Journal: Economic Policy**
 
