@@ -15,5 +15,5 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0740547221001690'
 
 Grooms, Jevay, and Alberto Ortega. "Substance use disorders among older populations: What role do race and ethnicity play in treatment and completion?." <i>Journal of Substance Abuse Treatment</i> 132 (2022): 108443.
 
-**Media:** [Squared Away](https://squaredawayblog.bc.edu/squared-away/aging-minorities-struggle-in-drug-treatment/)
+**Media:** [Squared Away](https://squaredawayblog.bc.edu/squared-away/aging-minorities-struggle-in-drug-treatment/) 
 

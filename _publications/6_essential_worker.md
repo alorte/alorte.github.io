@@ -15,4 +15,4 @@ This study investigates mental health distress among essential workers during th
 
 Grooms, Jevay, Alberto Ortega, Joaquin A-A. Rubalcaba, and Edward Vargas. "Racial and ethnic disparities: Essential workers, mental health, and the coronavirus pandemic." <i>The Review of Black Political Economy</i> 49, no. 4 (2022): 363-380.
 
-Profiled by [Brookings Institution](https://www.brookings.edu/blog/up-front/2020/08/13/the-covid-19-public-health-and-economic-crises-leave-vulnerable-populations-exposed/)
+Profiled by [Brookings Institution](https://www.brookings.edu/blog/up-front/2020/08/13/the-covid-19-public-health-and-economic-crises-leave-vulnerable-populations-exposed/) and [Economic Disparity & Fairness in Growth Committee roundtable on Substance Abuse and Addiction](https://www.youtube.com/watch?v=bVDUS1UCLKE)
