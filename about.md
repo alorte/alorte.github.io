@@ -9,7 +9,7 @@ redirect_from:
   - /about
 ---
 
-I am an Assistant Professor at the  [O'Neill School of Public and Environmental Affairs](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/ortega-alberto.html) at Indiana University. My current research is in the areas of health economics and crime victimization. Below are some examples of my work in progress.
+I am an Assistant Professor at the  [O'Neill School of Public and Environmental Affairs](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/ortega-alberto.html) at Indiana University. My current research is in the areas of health, crime, and education. Below are some examples of my work in progress.
 
 In Progress
 ======
