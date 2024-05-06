@@ -16,13 +16,15 @@ In Progress
 [DOJ Intervention and the Checkpoint Shift: Profiling Hispanic Motorists under the 287(g) Program](https://www.aeaweb.org/journals/pandp/issues)
 (with Joaquin Alfredo-Angel Rubalcaba and Prentiss A. Dantzler)--(*Forthcoming*) **AEA Papers and Proceedings**
 
-[Black Lives: The High Cost of Segregation](https://equitablegrowth.org/working-papers/black-lives-the-high-cost-of-segregation/) (with Robynn Cox, Jamein Cunningham, and Kenneth Whaley) -- (*Revisions Requested*)  **American Economic Journal: Economic Policy**
+[Black Lives: The High Cost of Segregation](https://equitablegrowth.org/working-papers/black-lives-the-high-cost-of-segregation/) (with Robynn Cox, Jamein Cunningham, and Kenneth Whaley) -- (*Accepted*)  **American Economic Journal: Economic Policy**
 
  [The Impact of Affirmative Action Litigation on Police Killings of Civilians](http://www.jameinpcunningham.com/uploads/1/1/2/0/112070441/affirmative_action_police_killings.pdf)  (with Robynn Cox and Jamein Cunningham)-- (*Revisions Requested*)  **American Economic Journal: Applied Economics**
  
 [Behavioral Health Treatment and Police Officer Safety](https://www.nber.org/papers/w31391?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)   (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #31391*)-- (*Revisions Requested*) **Journal of Human Resources**
 
+[Disparities in Court Orders to Relinquish Firearms for Civil Domestic Violence Protection Order Cases]() (with Julie M Kafka, Alice M Ellyson, Jeanie Santaularia, Avanti Adhia, Kim Dalve, Sandra Shanahan, Ali Rowhani-Rahbar, Dierdre Bowen)  (*Revisions Requested*) **Criminology & Public Policy**
+
 [Losing Medicaid and Crime](https://www.nber.org/papers/w32227?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #32227*)
 
-[Racial Protests and Credit Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304551) (with Raffi E. Garcia)
+[Racial Protests and Credit Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304551) (with Raffi E. Garcia) 
 
