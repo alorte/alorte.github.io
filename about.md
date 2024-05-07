@@ -22,7 +22,7 @@ In Progress
  
 [Behavioral Health Treatment and Police Officer Safety](https://www.nber.org/papers/w31391?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)   (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #31391*)-- (*Revisions Requested*) **Journal of Human Resources**
 
-[Disparities in Court Orders to Relinquish Firearms for Civil Domestic Violence Protection Order Cases]() (with Julie M Kafka, Alice M Ellyson, Jeanie Santaularia, Avanti Adhia, Kim Dalve, Sandra Shanahan, Ali Rowhani-Rahbar, Dierdre Bowen)-- (*Revisions Requested*) **Criminology & Public Policy**
+[Disparities in Court Orders to Relinquish Firearms for Civil Domestic Violence Protection Order Cases] (with Julie M Kafka, Alice M Ellyson, Jeanie Santaularia, Avanti Adhia, Kim Dalve, Sandra Shanahan, Ali Rowhani-Rahbar, Dierdre Bowen)-- (*Revisions Requested*) **Criminology & Public Policy**
 
 [Losing Medicaid and Crime](https://www.nber.org/papers/w32227?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #32227*)
 
