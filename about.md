@@ -26,5 +26,5 @@ In Progress
 
 [Losing Medicaid and Crime](https://www.nber.org/papers/w32227?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #32227*)
 
-[Racial Protests and Credit Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304551) (with Raffi E. Garcia) 
+[Racial Protests and Credit Access](https://www.nber.org/papers/w32477?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Raffi E. Garcia) (*NBER Working Paper #32477*)
 
