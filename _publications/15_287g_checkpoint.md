@@ -1,5 +1,5 @@
 ---
-title: "The Highs and the Lows: Recreational Marijuana Laws and Mental Health Treatment" 
+title: "DOJ Intervention and the Checkpoint Shift: Profiling Hispanic Motorists under the Section 287(g) Program" 
 excerpt: ' '
 collection: publications
 permalink: /publication/15_287g_checkpoint
