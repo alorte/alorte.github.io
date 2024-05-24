@@ -2,7 +2,7 @@
 title: "The Effect of the Opioid Crisis on Patenting" 
 excerpt: (with Zachary Cohle)
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/14_opioid_patent
 date: 2023-10-01
 venue: 'Journal of Economic Behavior and Organization'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167268123002846?dgcid=coauthor'
