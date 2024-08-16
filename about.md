@@ -21,6 +21,8 @@ In Progress
 
 <ins>Disparities in Court Orders to Relinquish Firearms for Civil Domestic Violence Protection Order Cases </ins> (with Julie M Kafka, Alice M Ellyson, Jeanie Santaularia, Avanti Adhia, Kim Dalve, Sandra Shanahan, Ali Rowhani-Rahbar, Dierdre Bowen)-- (*Revisions Requested*) **Criminology & Public Policy**
 
+<ins>Worker-Driven Social Responsibility and Infant Health: Evidence from the Fair Food Program</ins> (with Joaquin Alfredo-Angel Rubalcaba)(*Revisions Requested*) **Demography**
+
 [Losing Medicaid and Crime](https://www.nber.org/papers/w32227?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #32227*)
 
 [Racial Protests and Credit Access](https://www.nber.org/papers/w32477?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Raffi E. Garcia) (*NBER Working Paper #32477*)
