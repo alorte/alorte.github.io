@@ -9,7 +9,7 @@ redirect_from:
   - /about
 ---
 
-I am an Assistant Professor at the  [O'Neill School of Public and Environmental Affairs](https://oneill.indiana.edu/index.html) at Indiana University, a Faculty Research Fellow at the [National Bureau of Economic Research](https://www.nber.org/), and a Community Development Research Fellow at the [Federal Reserve Bank of St.Louis Institute for Economic Equity](https://www.stlouisfed.org/community-development/staff-directory#cd-research). My current research is in the areas of health and crime. Below are some examples of my work in progress.
+I am an Assistant Professor at the  [O'Neill School of Public and Environmental Affairs](https://oneill.indiana.edu/index.html) at Indiana University, a Faculty Research Fellow at the [National Bureau of Economic Research](https://www.nber.org/), and a Community Development Research Fellow at the [Federal Reserve Bank of St.Louis](https://www.stlouisfed.org/community-development/staff-directory#cd-research). My current research is in the areas of health and crime. Below are some examples of my work in progress.
 
 In Progress
 ======
