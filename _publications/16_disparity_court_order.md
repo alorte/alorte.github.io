@@ -1,6 +1,6 @@
 ---
 title: "Disparities in Court Orders to Relinquish Firearms in Civil Domestic Violence Protection Orders" 
-excerpt: ' '
+excerpt: (with Julie M Kafka, Alice M Ellyson, Jeanie Santaularia, Avanti Adhia, Kim Dalve, Sandra Shanahan, Ali Rowhani-Rahbar, Dierdre Bowen)
 collection: publications
 permalink: /publication/16_disparity_court_order
 date: 2024-5-24
