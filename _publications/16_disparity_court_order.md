@@ -1,5 +1,5 @@
 ---
-title: "Disparities in court orders to relinquish firearms in civil domestic violence protection orders" 
+title: "Disparities in Court Orders to Relinquish Firearms in Civil Domestic Violence Protection Orders" 
 excerpt: ' '
 collection: publications
 permalink: /publication/16_disparity_court_order
