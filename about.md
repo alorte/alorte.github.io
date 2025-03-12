@@ -17,7 +17,7 @@ In Progress
 
 [Black Lives: The High Cost of Segregation](https://equitablegrowth.org/working-papers/black-lives-the-high-cost-of-segregation/) (with Robynn Cox, Jamein Cunningham, and Kenneth Whaley) -- (*Accepted*)  **American Economic Journal: Economic Policy**
 
-<ins>Worker-Driven Social Responsibility and Infant Health </ins> (with Joaquin Alfredo-Angel Rubalcaba)-- (*Conditionally Acceptedd*) **Demography**
+<ins>Worker-Driven Social Responsibility and Infant Health </ins> (with Joaquin Alfredo-Angel Rubalcaba)-- (*Conditionally Accepted*) **Demography**
 
 [The Impact of Affirmative Action Litigation on Police Killings of Civilians](https://www.nber.org/papers/w32502?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)  (with Robynn Cox and Jamein Cunningham) (*NBER Working Paper #32502*)-- (*Revisions Requested*)  **American Economic Journal: Applied Economics**
 
