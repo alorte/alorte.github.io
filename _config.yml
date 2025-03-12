@@ -76,8 +76,8 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-DM8S027LL1
-    google_analytics     : G-DM8S027LL1
+    tracking_id          : G-FD51XWEZ1G
+    google_analytics     : G-FD51XWEZ1G
 
 
 # Site Author
