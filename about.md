@@ -19,7 +19,7 @@ In Progress
 
 <ins>Worker-Driven Social Responsibility and Infant Health </ins> (with Joaquin Alfredo-Angel Rubalcaba)-- (*Conditionally Accepted*) **Demography**
 
-[The Impact of Affirmative Action Litigation on Police Killings of Civilians](https://www.nber.org/papers/w32502?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)  (with Robynn Cox and Jamein Cunningham) (*NBER Working Paper #32502*)-- (*Revisions Requested*)  **American Economic Journal: Applied Economics**
+[The Impact of Affirmative Action Litigation on Police Killings of Civilians](https://www.nber.org/papers/w32502?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)  (with Robynn Cox and Jamein Cunningham) (*NBER Working Paper #32502*)-- (*Conditionally Accepted*)  **American Economic Journal: Applied Economics**
 
 
 [Losing Medicaid and Crime](https://www.nber.org/papers/w32227?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #32227*)
