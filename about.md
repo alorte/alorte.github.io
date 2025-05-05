@@ -23,7 +23,7 @@ In Progress
 
 [Losing Medicaid and Crime](https://www.nber.org/papers/w32227?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #32227*)
 
-[Paid Sick Leave and Maltreatment](https://www.nber.org/papers/w33758)(with Monica Deza and Catherine MacLean) (*NBER Working Paper #33758*)
+[Paid Sick Leave and Maltreatment](https://www.nber.org/papers/w33758) (with Monica Deza and Catherine MacLean) (*NBER Working Paper #33758*)
 
 [Racial Protests and Credit Access](https://www.nber.org/papers/w32477?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Raffi E. Garcia) (*NBER Working Paper #32477*)
 
