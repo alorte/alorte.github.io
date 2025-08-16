@@ -12,7 +12,6 @@ redirect_from:
 I am an Assistant Professor at the  [O'Neill School of Public and Environmental Affairs](https://oneill.indiana.edu/index.html) at Indiana University, a Faculty Research Fellow at the [National Bureau of Economic Research](https://www.nber.org/), and a Community Development Research Fellow at the [Federal Reserve Bank of St.Louis](https://www.stlouisfed.org/community-development/staff-directory#cd-research). Below are some examples of my current research.
 
 
-======
 [Behavioral Health Treatment and Police Officer Safety](https://www.nber.org/papers/w31391?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)  (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #31391*)-- (*Accepted*) **Journal of Human Resources**
 
 [Black Lives: The High Cost of Segregation](https://equitablegrowth.org/working-papers/black-lives-the-high-cost-of-segregation/) (with Robynn Cox, Jamein Cunningham, and Kenneth Whaley) -- (*Accepted*)  **American Economic Journal: Economic Policy**
