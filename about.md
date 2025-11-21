@@ -25,5 +25,7 @@ In Progress
 
 [Paid Sick Leave and Maltreatment](https://www.nber.org/papers/w33758) (with Monica Deza and Catherine MacLean) (*NBER Working Paper #33758*)
 
+[Vulnerability of the Public Safety System: Evidence from Micro-Shocks](https://www.nber.org/papers/w34428) (with Shooshan Danagoulian, Monica Deza, and Catherine MacLean)  (*NBER Working Paper #34428*)
+
 [Racial Protests and Credit Access](https://www.nber.org/papers/w32477?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Raffi E. Garcia) (*NBER Working Paper #32477*)
 
