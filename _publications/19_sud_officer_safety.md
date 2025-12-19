@@ -1,6 +1,7 @@
 ---
-title: "Black Lives: The High Cost of Segregation" 
-excerpt: (with Robynn Cox, Jamein Cunningham, and Kenneth Whaley)
+title: "Treatment for mental health and substance use
+Spillovers to police safety" 
+excerpt: (with Monica Deza, Catherine MacLean, Thanh Lu)
 collection: publications
 permalink: /publication/19_sud_officer_safety
 date: 2025-11-10
