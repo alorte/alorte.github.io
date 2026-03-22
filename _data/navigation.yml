@@ -5,10 +5,7 @@ main:
 
   - title: "About Me"
     url: /aboutme/
-    
-  - title: "Other Writing"
-    url: /otherwritings/
-    
+
   - title: "CV"
     url: /files/Alberto_CV.pdf
 
