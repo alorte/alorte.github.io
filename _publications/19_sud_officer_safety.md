@@ -1,6 +1,5 @@
 ---
-title: "Treatment for mental health and substance use
-Spillovers to police safety" 
+title: "Treatment for mental health and substance use: Spillovers to police safety" 
 excerpt: (with Monica Deza, Catherine MacLean, Thanh Lu)
 collection: publications
 permalink: /publication/19_sud_officer_safety
