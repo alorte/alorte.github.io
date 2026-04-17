@@ -15,7 +15,7 @@ paperurl: 'https://jhr.uwpress.org/content/early/2025/10/02/jhr.1223-13303R3'
 We study the effect of community access to mental health and substance use treatment on police officer safety, proxied with on-duty assaults on officers. Police officers often serve as first-responders to people experiencing mental health and substance use crises, which can place police officers at risk. Combining agency-level data on police officer on-duty assaults and county-level data on treatment centers that offer mental health and substance use care, we estimate panel fixed-effects regressions. An additional four centers per county (the average annual increase observed in our data) leads to a 1.3% reduction per police agency in on-duty police officers assaults.
  
  
- Deza, Monica, Thanh Lu, Johanna Catherine Maclean, and Alberto Ortega. "Behavioral health treatment and police officer safety." <i>Journal of Human Resources<i> (2025).
+ Deza, Monica, Catherine MacLean, Thanh Lu, and Alberto Ortega. 2026. "Treatment for mental health and substance use: Spillovers to police safety." <i>Journal of Human Resources<i>.
  
 
  
