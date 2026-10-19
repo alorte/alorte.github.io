@@ -14,11 +14,15 @@ In Progress
 ======
 [The Impact of Affirmative Action Litigation on Police Killings of Civilians](https://www.nber.org/papers/w32502?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)  (with Robynn Cox and Jamein Cunningham) (*NBER Working Paper #32502*)-- (*Accepted*)  **American Economic Journal: Applied Economics**
 
+[Staying Connected: Experimental Effects of Coach-Delivered Text Messages in an Adult High School](https://www.nber.org/papers/w35923) (with Pietro Pellerito and Patrick Turner) (*NBER Working Paper #35923*)
+
 [Medicaid Coverage for Obesity Medications: Utilization and Net-of-Rebate Costs](https://www.nber.org/papers/w34949) (with Coady Wing, Wei-Lun Lo, Maddie Potter, Tarik Yuce, John Cawley, Thuy Nguyen, and Kosali Simon) (*NBER Working Paper #34949*)
 
 [Losing Medicaid and Crime](https://www.nber.org/papers/w32227?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2) (with Monica Deza, Catherine MacLean, and Thanh Lu) (*NBER Working Paper #32227*)
 
 [Paid Sick Leave and Maltreatment](https://www.nber.org/papers/w33758) (with Monica Deza and Catherine MacLean) (*NBER Working Paper #33758*)
+
+[Does Paid Sick Leave Facilitate Reproductive Choice?](https://www.nber.org/papers/w31801) (with Catherine MacLean, Ioana Popovici, and Christopher Ruhm) (*NBER Working Paper #31801*)
 
 [Vulnerability of the Public Safety System: Evidence from Micro-Shocks](https://www.nber.org/papers/w34428) (with Shooshan Danagoulian, Monica Deza, and Catherine MacLean)  (*NBER Working Paper #34428*)
 
