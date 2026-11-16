@@ -14,6 +14,8 @@ In Progress
 ======
 [The Impact of Affirmative Action Litigation on Police Killings of Civilians](https://www.nber.org/papers/w32502?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg2)  (with Robynn Cox and Jamein Cunningham) (*NBER Working Paper #32502*)-- (*Accepted*)  **American Economic Journal: Applied Economics**
 
+[Decoding Success: Phonics-based Instruction and Student Achievement](https://www.nber.org/papers/w36018) (with Alex Hollingsworth and Nikolaos Zirogiannis) (*NBER Working Paper #36018*)
+
 [Staying Connected: Experimental Effects of Coach-Delivered Text Messages in an Adult High School](https://www.nber.org/papers/w35923) (with Pietro Pellerito and Patrick Turner) (*NBER Working Paper #35923*)
 
 [Medicaid Coverage for Obesity Medications: Utilization and Net-of-Rebate Costs](https://www.nber.org/papers/w34949) (with Coady Wing, Wei-Lun Lo, Maddie Potter, Tarik Yuce, John Cawley, Thuy Nguyen, and Kosali Simon) (*NBER Working Paper #34949*)
